@@ -1,0 +1,11 @@
+.image {
+  width: 350px;
+  height: 350px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.link {
+  display: flex;
+  height: 100%;
+}
